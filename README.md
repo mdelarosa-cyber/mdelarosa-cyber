@@ -17,7 +17,6 @@
 ---
 
 ## 📂 Featured Projects
-- [🔍 Threat Detection Lab](#) *(add repo later)*
 - [🎯 Resume Website](https://mdelarosa-cyber.github.io)
 - [🧠 TryHackMe Progress](https://tryhackme.com/p/3400876)
 
