@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**mdelarosa-cyber/mdelarosa-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Marcos De La Rosa
 
-Here are some ideas to get you started:
+🎯 Transitioning from Apple leadership into cybersecurity  
+🎓 B.S. Cybersecurity Student @ WGU | CompTIA Certified  
+🔐 SOC Analyst | Incident Response | Threat Detection  
+📚 Always learning – TryHackMe, SIEM labs, and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Certifications: Security+, Network+, A+, Project+, ITIL, Google Cybersecurity
+- Tools: Splunk, Nessus, Brim, Wireshark, KQL
+- Hands-On Labs: TryHackMe | Home SOC Lab | Azure Sentinel
+
+---
+
+## 📂 Featured Projects
+- [🔍 Threat Detection Lab](#) *(add repo later)*
+- [🎯 Resume Website](https://mdelarosa-cyber.github.io)
+- [🧠 TryHackMe Progress](https://tryhackme.com/p/3400876)
+
+---
+
+## 📫 Let's Connect
+[📧 Email](mailto:mdelarosa.cyber@gmail.com)  
+[💼 LinkedIn](https://www.linkedin.com/in/marcos-de-la-rosa)  
+[🌐 Resume Website](https://mdelarosa-cyber.github.io)
+
+---
+
+⭐️ *Thanks for visiting my profile! I'm actively seeking entry-level cybersecurity roles where I can learn, grow, and contribute to a mission-driven team.*
+
