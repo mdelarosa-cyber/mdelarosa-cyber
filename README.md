@@ -10,7 +10,9 @@
 ---
 
 ## 🛠️ Skills
-- Certifications: Security+, Network+, A+, Project+, ITIL, Google Cybersecurity
+- Certifications: CompTIA CYSA+ (Expected Aug 2025), Security+, Network+, A+, Project+, ITIL, Google Cybersecurity, Associate of (ISC)² – SSCP (Systems Security Certified Practitioner), 2025
+(Passed exam; pursuing experience requirement), 
+
 - Tools: Splunk, Nessus, Brim, Wireshark, KQL
 - Hands-On Labs: TryHackMe | Home SOC Lab | Azure Sentinel
 
