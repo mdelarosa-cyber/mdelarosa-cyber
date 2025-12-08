@@ -12,6 +12,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mdelarosa-cyber/Threat-Hunting-Scenario-Tor)**
 
+### 🔐 Windows 11 STIG Remediation (Azure VM + Tenable + PowerShell)
+
+-- **A hands-on security hardening project where I scanned an Azure Windows 11 VM using Tenable, identified failed DISA STIG audit checks, and remediated them using automated PowerShell scripts.**
+
+- **[Windows 11 STIG Remediation](https://github.com/mdelarosa-cyber/STIGs_Remediation)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
