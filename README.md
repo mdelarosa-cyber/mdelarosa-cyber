@@ -17,6 +17,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Windows 11 STIG Remediation](https://github.com/mdelarosa-cyber/STIGs_Remediation)**
 
+### 🚨 SOC Analyst Investigation: Credential Theft, Persistence, C2, and Exfiltration Hunt
+
+-- **Conducted a full-scope threat hunt and incident analysis demonstrating SOC Analyst investigation workflows, KQL hunting, and MITRE ATT&CK alignment.**
+
+-**[Azuki Cast Study- SOC Analyst Threat hunt](https://github.com/mdelarosa-cyber/Azuki-Incident-Full-Threat-Hunt-Report/blob/main/README.md)**
+
 
 <hr/>
 
