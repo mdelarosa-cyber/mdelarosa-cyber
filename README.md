@@ -5,9 +5,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
+-- **Designed an end-to-end vulnerability management workflow using Tenable.io, including scanning, prioritization, and remediation governance. Documented lifecycle processes, SLAs, KPIs, and asset risk models aligned to industry best practices.**
+
 - **[Vulnerability Management Program Implementation](https://github.com/mdelarosa-cyber/Vulnerability-Management-Program/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
+
+-- **Developed a threat hunting use case to identify Tor exit node traffic. Built KQL detections in Microsoft Sentinel, analyzed network indicators, and documented hypotheses, procedures, and response steps.**
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mdelarosa-cyber/Threat-Hunting-Scenario-Tor)**
 
