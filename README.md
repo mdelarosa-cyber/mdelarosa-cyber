@@ -25,7 +25,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 -- **Conducted a full-scope threat hunt and incident analysis demonstrating SOC Analyst investigation workflows, KQL hunting, and MITRE ATT&CK alignment.**
 
-- **[Azuki Cast Study- SOC Analyst Threat hunt](https://github.com/mdelarosa-cyber/Azuki-Incident-Full-Threat-Hunt-Report/blob/main/README.md)**
+- **[Azuki Case Study- SOC Analyst Threat hunt](https://github.com/mdelarosa-cyber/Azuki-Incident-Full-Threat-Hunt-Report/blob/main/README.md)**
 
 
 <hr/>
