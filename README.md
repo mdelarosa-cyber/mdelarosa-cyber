@@ -3,6 +3,12 @@
 I'm passionate about cybersecurity/IT infrastructure and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
+### 🌐 Enterprise DHCP Configuration in Azure
+
+-- **Configured a multi-scope Windows Server DHCP environment in Microsoft Azure, including exclusions, lease management, and reservations. This project simulates real-world enterprise network administration for user, voice, and guest networks.**
+
+- **[Enterprise DHCP Configuration in Azure](https://github.com/mdelarosa-cyber/-Azure-Windows-Server-DHCP-Multi-Scope-Lab/blob/main/README.md)**
+
 ## ⚠️ Vulnerability Management Projects
 
 -- **Designed an end-to-end vulnerability management workflow using Tenable.io, including scanning, prioritization, and remediation governance. Documented lifecycle processes, SLAs, KPIs, and asset risk models aligned to industry best practices.**
@@ -26,13 +32,6 @@ I'm passionate about cybersecurity/IT infrastructure and love tackling complex c
 -- **Conducted a full-scope threat hunt and incident analysis demonstrating SOC Analyst investigation workflows, KQL hunting, and MITRE ATT&CK alignment.**
 
 - **[Azuki Case Study- SOC Analyst Threat hunt](https://github.com/mdelarosa-cyber/Azuki-Incident-Full-Threat-Hunt-Report/blob/main/README.md)**
-
-### 🌐 Enterprise DHCP Configuration in Azure
-
--- **Configured a multi-scope Windows Server DHCP environment in Microsoft Azure, including exclusions, lease management, and reservations. This project simulates real-world enterprise network administration for user, voice, and guest networks.**
-
-- **[Enterprise DHCP Configuration in Azure](https://github.com/mdelarosa-cyber/-Azure-Windows-Server-DHCP-Multi-Scope-Lab/blob/main/README.md)**
-
 
 <hr/>
 
