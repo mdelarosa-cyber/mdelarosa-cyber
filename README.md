@@ -27,7 +27,7 @@ I'm passionate about cybersecurity/IT infrastructure and love tackling complex c
 
 - **[Azuki Case Study- SOC Analyst Threat hunt](https://github.com/mdelarosa-cyber/Azuki-Incident-Full-Threat-Hunt-Report/blob/main/README.md)**
 
-- ### 🌐 Enterprise DHCP Configuration in Azure
+### 🌐 Enterprise DHCP Configuration in Azure
 
 -- **Configured a multi-scope Windows Server DHCP environment in Microsoft Azure, including exclusions, lease management, and reservations. This project simulates real-world enterprise network administration for user, voice, and guest networks.**
 
